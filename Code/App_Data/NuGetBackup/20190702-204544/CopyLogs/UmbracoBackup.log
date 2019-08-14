@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, July 2, 2019 8:45:45 PM
+   Source : C:\inetpub\wwwroot\Umbraco sites\ugardian-v7\ugardian-v7\Umbraco\
+     Dest : C:\inetpub\wwwroot\Umbraco sites\ugardian-v7\ugardian-v7\App_Data\NuGetBackup\20190702-204544\Umbraco\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\inetpub\wwwroot\Umbraco sites\ugardian-v7\ugardian-v7\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Tuesday, July 2, 2019 8:45:45 PM
+
