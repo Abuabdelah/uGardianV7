@@ -1,7 +1,7 @@
-# [UGardian](https://our.umbraco.com/packages/starter-kits/upillar/)
+# [uGardian](https://our.umbraco.com/packages/backoffice-extensions/ugardianv7/)
 
 
-Ugardian is a security plugin to export **Umbraco members** to different formats, filtering records by search and check column visiblity.
+uGardian is a security plugin to export **Umbraco members** to different formats, filtering records by search and check column visiblity.
 
 ## Features
 
@@ -14,23 +14,22 @@ Ugardian is a security plugin to export **Umbraco members** to different formats
 * Set column visibility.
 * Sort table by property.
 * Filtering records.
-* Responsive members table.
 * Number of records to export unlimited .
 * Bulk delete.
 
 ## Preview
-![UGardian Umbraco Security Plugin, 50%](https://pagure.io/UGardian/raw/master/f/Package/images/ugardian-view.png)
+![uGardian Umbraco Security Plugin, 50%](https://pagure.io/UGardian/raw/master/f/Package/images/ugardian-view.png)
 
 ## Getting Started
 
 ### Manual installation
-![UGardian manual installation](https://pagure.io/UGardian/raw/master/f/Package/images/Manual%20installation.gif)
+![uGardian manual installation](https://pagure.io/UGardian/raw/master/f/Package/images/Manual%20installation.gif)
 
 
 ## Community
 Keep track of development and news.
 
-* Ask, share, learn or give feedback [on the forum support](https://our.umbraco.com/packages/backoffice-extensions/ugardian/support/)
+* Ask, share, learn or give feedback [on the forum support](https://our.umbraco.com/packages/backoffice-extensions/ugardianv7/support/)
 
 ## Backoffice Admin
 
